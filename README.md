@@ -26,3 +26,36 @@ UNIDAD 2: Analisis de los requerimientos de informacion
 *4. Observacion
 1. Tipos de informacion
 2. Observacion del ambiente fisico
+UNIDAD 3:El proceswo de analisi
+*1.Diagrama de flujo de datos
+el enfoque de flujo de datos para la determinacion de requerimientos
+2. desarrollo de diagramas de flujo de datos
+3. diagrama de fljo de datos logicos y fisicos.
+4. particion de diagramade flujon de datos
+*2.el diccionario de datos.
+1. El almacen de datos.
+2. Creacion de diccionario de datos.
+3. Uso del diccionario de datos.
+*3. Descripcion de especificaciones de proceso y desiciones estructuradas.
+1. Metodos disponibles
+2. panoramica de las especificaciones de los procesos.
+3. Lenguyaje estructurado
+4. Tablas de desiciones
+5. Arboles de desiciones
+6. Seleccion de una tecnica de analisis de desicion estructurada.
+UNIDAD 4:El diseño.
+1. Diseño de salidas
+2. Diseño de entradas
+3. Diseño de archivos
+1.1. Objetivos del diseño
+1.2. Concepto de datos.
+4. Diseño de la interfaz del usuario.
+4.1. Objetivos de la interfaz del usuario.
+4.2. Dialogos y areas de trabajo.
+4.3. Diseño de consultas.
+4.4. La productividad y el diseño ergonomico.
+UNIDAD 5: Implementacion satisfactoria en el sistema de informacion.
+1. enfoques de la implementacion
+2. Capacitacion de los usuarios.
+3. Conversacion.
+4. Evaluacion.
